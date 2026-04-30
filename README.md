@@ -13,7 +13,7 @@ Flooding is among the most frequent and devastating natural disasters. This syst
 - **Semantic Segmentation:** Binary classification (water vs. land) at the pixel level.
 - **Statistical Analysis:** Detailed reports on flood area percentages and model performance metrics.
 - **Automated Inference:** A ready-to-use pipeline for processing new, unseen aerial images.
-- **Robust Data Handling:** Optimized for large datasets (3,000+ images) with varying file formats (`.jpg` images and `.png` masks).
+- **Robust Data Handling:** Optimized for datasets (250+ images) with varying file formats (`.jpg` images and `.png` masks).
 
 ---
 
